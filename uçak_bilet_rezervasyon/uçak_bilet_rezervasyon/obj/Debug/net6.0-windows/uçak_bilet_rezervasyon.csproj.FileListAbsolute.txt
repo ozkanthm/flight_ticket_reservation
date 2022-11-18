@@ -1,0 +1,17 @@
+D:\VS_C#\uçak_bilet_rezervasyon\uçak_bilet_rezervasyon\bin\Debug\net6.0-windows\uçak_bilet_rezervasyon.exe
+D:\VS_C#\uçak_bilet_rezervasyon\uçak_bilet_rezervasyon\bin\Debug\net6.0-windows\uçak_bilet_rezervasyon.deps.json
+D:\VS_C#\uçak_bilet_rezervasyon\uçak_bilet_rezervasyon\bin\Debug\net6.0-windows\uçak_bilet_rezervasyon.runtimeconfig.json
+D:\VS_C#\uçak_bilet_rezervasyon\uçak_bilet_rezervasyon\bin\Debug\net6.0-windows\uçak_bilet_rezervasyon.dll
+D:\VS_C#\uçak_bilet_rezervasyon\uçak_bilet_rezervasyon\bin\Debug\net6.0-windows\uçak_bilet_rezervasyon.pdb
+D:\VS_C#\uçak_bilet_rezervasyon\uçak_bilet_rezervasyon\obj\Debug\net6.0-windows\uçak_bilet_rezervasyon.csproj.AssemblyReference.cache
+D:\VS_C#\uçak_bilet_rezervasyon\uçak_bilet_rezervasyon\obj\Debug\net6.0-windows\uçak_bilet_rezervasyon.Form1.resources
+D:\VS_C#\uçak_bilet_rezervasyon\uçak_bilet_rezervasyon\obj\Debug\net6.0-windows\uçak_bilet_rezervasyon.csproj.GenerateResource.cache
+D:\VS_C#\uçak_bilet_rezervasyon\uçak_bilet_rezervasyon\obj\Debug\net6.0-windows\uçak_bilet_rezervasyon.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_C#\uçak_bilet_rezervasyon\uçak_bilet_rezervasyon\obj\Debug\net6.0-windows\uçak_bilet_rezervasyon.AssemblyInfoInputs.cache
+D:\VS_C#\uçak_bilet_rezervasyon\uçak_bilet_rezervasyon\obj\Debug\net6.0-windows\uçak_bilet_rezervasyon.AssemblyInfo.cs
+D:\VS_C#\uçak_bilet_rezervasyon\uçak_bilet_rezervasyon\obj\Debug\net6.0-windows\uçak_bilet_rezervasyon.csproj.CoreCompileInputs.cache
+D:\VS_C#\uçak_bilet_rezervasyon\uçak_bilet_rezervasyon\obj\Debug\net6.0-windows\uçak_bilet_rezervasyon.dll
+D:\VS_C#\uçak_bilet_rezervasyon\uçak_bilet_rezervasyon\obj\Debug\net6.0-windows\refint\uçak_bilet_rezervasyon.dll
+D:\VS_C#\uçak_bilet_rezervasyon\uçak_bilet_rezervasyon\obj\Debug\net6.0-windows\uçak_bilet_rezervasyon.pdb
+D:\VS_C#\uçak_bilet_rezervasyon\uçak_bilet_rezervasyon\obj\Debug\net6.0-windows\uçak_bilet_rezervasyon.genruntimeconfig.cache
+D:\VS_C#\uçak_bilet_rezervasyon\uçak_bilet_rezervasyon\obj\Debug\net6.0-windows\ref\uçak_bilet_rezervasyon.dll
